@@ -1,7 +1,7 @@
 # GoFiber Hello world!
 <h1 align="center"> <br> <a href="https://jwt.io/">
 <img src="https://cdn.thenewstack.io/media/2022/05/57bb2a1f-golang.png" alt="Go" width="200">
-</a> <br> JWT <br> </h1> 
+</a> <br> Go Fiber <br> </h1> 
 <p align="center"> 
     <a href="#how-to-use">How To Use</a> • 
     <a href="#credits">Credits</a> • 
