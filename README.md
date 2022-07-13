@@ -38,6 +38,7 @@ $ go build .
 - [Go uuid](github.com/google/uuid)
 - [Logger](github.com/gofiber/fiber/v2/middleware/logger)
 - [Requestid](github.com/gofiber/fiber/v2/middleware/requestid)
+- [Air](https://github.com/cosmtrek/air)
 
 ## Contact 
 - [Correo](cesara.gonzalez1997@gmail.com) 
